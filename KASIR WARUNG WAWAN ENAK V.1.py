@@ -21,7 +21,6 @@ def save_json(data):
 menu = {
     "Lele Goreng + Nasi": 12000,
     "Ayam Goreng + Nasi": 18000,
-    "Ayam Goreng + Nasi": 18000,
     "Bebek Goreng + Nasi": 20000,
     "Tempe Tahu + Nasi": 8000,
     "Es Teh": 3000,
